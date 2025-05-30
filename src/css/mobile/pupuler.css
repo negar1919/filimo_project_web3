@@ -187,7 +187,7 @@
               .swiper-slide {
                 text-align: center;
                 font-size: 14px;
-                background-image: url("../../../imags/tasianback.webp");
+                background-image: url("../../../imags/tasianback.webp")!important;
                 display: flex;
                 cursor: pointer;
                 position: relative;
